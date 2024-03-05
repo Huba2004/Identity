@@ -7,7 +7,7 @@ namespace Identity
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
@@ -16,7 +16,7 @@ namespace Identity
             builder.Services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(connectionString));
 
-          
+
 
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
@@ -28,6 +28,9 @@ namespace Identity
             builder.Services.AddRazorPages();
 
             var app = builder.Build();
+
+            await Configure(app);
+          
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
@@ -52,8 +55,28 @@ namespace Identity
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
             app.MapRazorPages();
-
+         
             app.Run();
+
+            static async Task Configure(WebApplication host)
+            {
+                using var scope = host.Services.CreateScope();
+                var services = scope.ServiceProvider;
+
+                try
+                {
+                    var dbContext = services.GetRequiredService<ApplicationDbContext>();
+
+                    var userManager = services.GetRequiredService<UserManager<ApplicationUser>>();
+                    var roleManager = services.GetRequiredService<RoleManager<IdentityRole>>();
+                    await ContextSeed.SeedRolesAsync(userManager, roleManager);
+                }
+                catch (Exception ex)
+                {
+                    throw;
+                }
+            }
+
         }
     }
 }

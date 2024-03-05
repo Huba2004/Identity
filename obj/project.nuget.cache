@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZY/aOpV0migrmN4ZqNf+5KNC3tTLRGCx1lfyx4elI/UnSCbniXTOKFG40YOuU1TO8+XGZz1VMXBotvNefRcCbQ==",
+  "dgSpecHash": "WyC/TXXfQskE4M4stpCsB6qKiwRIVZM0CdQLqm4/BM4SMCiqWrrPnMRHh4DQIp7WygZfdcX//5dBR5w8ag4wyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\szalk\\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\\Asztal\\VasVilla\\Web\\#ASP\\#MVC\\Identity\\Identity\\Identity.csproj",
+  "projectFilePath": "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\szalk\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\szalk\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\szalk\\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\\Asztal\\VasVilla\\Web\\#ASP\\#MVC\\Identity\\Identity\\Identity.csproj": {}
+    "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\Identity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\szalk\\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\\Asztal\\VasVilla\\Web\\#ASP\\#MVC\\Identity\\Identity\\Identity.csproj": {
+    "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\szalk\\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\\Asztal\\VasVilla\\Web\\#ASP\\#MVC\\Identity\\Identity\\Identity.csproj",
+        "projectUniqueName": "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\Identity.csproj",
         "projectName": "Identity",
-        "projectPath": "C:\\Users\\szalk\\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\\Asztal\\VasVilla\\Web\\#ASP\\#MVC\\Identity\\Identity\\Identity.csproj",
+        "projectPath": "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\Identity.csproj",
         "packagesPath": "C:\\Users\\szalk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\szalk\\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\\Asztal\\VasVilla\\Web\\#ASP\\#MVC\\Identity\\Identity\\obj\\",
+        "outputPath": "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

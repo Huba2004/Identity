@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B954BD0-5237-409B-8B38-09B4FB91B11F}|Identity.csproj|c:\\users\\szalk\\documents\\github\\identity\\views\\userroles\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B954BD0-5237-409B-8B38-09B4FB91B11F}|Identity.csproj|solutionrelative:views\\userroles\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B954BD0-5237-409B-8B38-09B4FB91B11F}|Identity.csproj|c:\\users\\szalk\\documents\\github\\identity\\controllers\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B954BD0-5237-409B-8B38-09B4FB91B11F}|Identity.csproj|solutionrelative:controllers\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B954BD0-5237-409B-8B38-09B4FB91B11F}|Identity.csproj|c:\\users\\szalk\\documents\\github\\identity\\models\\userrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B954BD0-5237-409B-8B38-09B4FB91B11F}|Identity.csproj|solutionrelative:models\\userrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B954BD0-5237-409B-8B38-09B4FB91B11F}|Identity.csproj|c:\\users\\szalk\\documents\\github\\identity\\views\\userroles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B954BD0-5237-409B-8B38-09B4FB91B11F}|Identity.csproj|solutionrelative:views\\userroles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B954BD0-5237-409B-8B38-09B4FB91B11F}|Identity.csproj|c:\\users\\szalk\\documents\\github\\identity\\views\\rolemanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B954BD0-5237-409B-8B38-09B4FB91B11F}|Identity.csproj|solutionrelative:views\\rolemanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B954BD0-5237-409B-8B38-09B4FB91B11F}|Identity.csproj|c:\\users\\szalk\\documents\\github\\identity\\models\\manageuserrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B954BD0-5237-409B-8B38-09B4FB91B11F}|Identity.csproj|solutionrelative:models\\manageuserrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B954BD0-5237-409B-8B38-09B4FB91B11F}|Identity.csproj|c:\\users\\szalk\\documents\\github\\identity\\controllers\\rolemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B954BD0-5237-409B-8B38-09B4FB91B11F}|Identity.csproj|solutionrelative:controllers\\rolemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRolesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\Models\\UserRolesViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserRolesViewModel.cs",
+              "ToolTip": "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\Models\\UserRolesViewModel.cs",
+              "RelativeToolTip": "Models\\UserRolesViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T11:24:13.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\Controllers\\RoleManagerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleManagerController.cs",
+              "ToolTip": "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\Controllers\\RoleManagerController.cs",
+              "RelativeToolTip": "Controllers\\RoleManagerController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T11:19:24.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRolesController.cs",
+              "DocumentMoniker": "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\Controllers\\UserRolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRolesController.cs",
+              "ToolTip": "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\Controllers\\UserRolesController.cs",
+              "RelativeToolTip": "Controllers\\UserRolesController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAIwFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T11:19:23.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manage.cshtml",
+              "DocumentMoniker": "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\Views\\UserRoles\\Manage.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserRoles\\Manage.cshtml",
+              "ToolTip": "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\Views\\UserRoles\\Manage.cshtml",
+              "RelativeToolTip": "Views\\UserRoles\\Manage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T11:18:51.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\Views\\UserRoles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserRoles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\Views\\UserRoles\\Index.cshtml",
+              "RelativeToolTip": "Views\\UserRoles\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T11:18:44.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\Views\\RoleManager\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\RoleManager\\Index.cshtml",
+              "ToolTip": "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\Views\\RoleManager\\Index.cshtml",
+              "RelativeToolTip": "Views\\RoleManager\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T11:22:50.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageUserRolesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\Models\\ManageUserRolesViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ManageUserRolesViewModel.cs",
+              "ToolTip": "C:\\Users\\szalk\\Documents\\GitHub\\Identity\\Models\\ManageUserRolesViewModel.cs",
+              "RelativeToolTip": "Models\\ManageUserRolesViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T11:20:25.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
